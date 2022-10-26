@@ -23,6 +23,17 @@ _Ejecutar el deploy_
 
 ```
 
+## Documentacion 📋
+
+_Una vez la API este ejecutandose_
+```
+
+- Puedes consultar dos endpoint para leer la documentacion de la API
+
+- pathURL:PORT/docs
+
+```
+
 ## Construido con 🛠️
 
 _Herramienta que se utilizo para crear el proyecto_
