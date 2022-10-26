@@ -32,6 +32,8 @@ _Una vez la API este ejecutandose_
 
 - pathURL:PORT/docs
 
+- pathURL:PORT/redocs
+
 ```
 
 ## Construido con 🛠️
