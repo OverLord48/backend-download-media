@@ -1,0 +1,45 @@
+.DS_Store
+node_modules
+/dist
+/data
+
+# DB files
+*.sqlite
+*.sqlite3
+//__pycache__/
+*.pyc
+
+# local env files
+.env.production
+.env.local
+.env.*.local
+*.yml
+# *.env
+# .env
+# //.env
+# .env.production
+# .env.local
+# .env.*.local
+*.env
+.env
+.env.production*
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# lock files
+//package-lock.json
+//yarn.lock
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+.history
+
+Pipfile
+Pipfile.lock
